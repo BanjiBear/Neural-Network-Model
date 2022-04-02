@@ -2,4 +2,4 @@
 
 # To-Do
 - [x] Remember to add ***Bias*** in all layers !!
-- [ ] Weights update and Gradian Descent
+- [x] Weights update and Gradian Descent
