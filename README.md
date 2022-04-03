@@ -11,6 +11,7 @@
 - Draw the figure
 - Show the code
 - Convergences, Measurements, When to stop?
+- The accuracy -> Am I doing it correctly?
 
 # Tools for Self-Reference
 - https://towardsdatascience.com/how-to-create-custom-real-time-plots-in-deep-learning-ecbdb3e7922f
